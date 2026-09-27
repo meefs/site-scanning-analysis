@@ -1,12 +1,12 @@
 Group,count,Agencies,semantic version,Agencies_sv,v1.x,Agencies_v1,v2.x,Agencies_v2,v3.x,Agencies_v3,banner,Agencies_banner,usa-class,Agencies_usa_class
-All sites scanned,12659,135,1080,41,29,12,495,18,496,36,2317,68,3565,81
-All live sites,12659,135,1080,41,29,12,495,18,496,36,2317,68,3565,81
-"All live, filtered sites",12659,135,1080,41,29,12,495,18,496,36,2317,68,3565,81
-"All live, filtered, non-redirecting sites",8708,134,590,41,23,12,138,18,399,36,1220,66,1816,80
-Executive sites scanned,11693,113,1074,38,29,12,495,18,490,33,2308,66,3550,75
-Executive live sites,11693,113,1074,38,29,12,495,18,490,33,2308,66,3550,75
-"Executive live, filtered sites",11693,113,1074,38,29,12,495,18,490,33,2308,66,3550,75
-"Executive live, filtered, non-redirecting sites",7826,112,585,38,23,12,138,18,394,33,1213,64,1805,74
+All sites scanned,12661,135,1084,41,29,12,496,18,498,36,2320,68,3567,81
+All live sites,12661,135,1084,41,29,12,496,18,498,36,2320,68,3567,81
+"All live, filtered sites",12661,135,1084,41,29,12,496,18,498,36,2320,68,3567,81
+"All live, filtered, non-redirecting sites",8713,134,593,41,23,12,138,18,401,36,1222,66,1816,80
+Executive sites scanned,11695,113,1078,38,29,12,496,18,492,33,2311,66,3552,75
+Executive live sites,11695,113,1078,38,29,12,496,18,492,33,2311,66,3552,75
+"Executive live, filtered sites",11695,113,1078,38,29,12,496,18,492,33,2311,66,3552,75
+"Executive live, filtered, non-redirecting sites",7831,112,588,38,23,12,138,18,396,33,1215,64,1805,74
 Legislative sites scanned,827,16,4,1,0,0,0,0,4,1,0,0,6,4
 Legislative live sites,827,16,4,1,0,0,0,0,4,1,0,0,6,4
 "Legislative live, filtered sites",827,16,4,1,0,0,0,0,4,1,0,0,6,4
@@ -15,7 +15,7 @@ Judicial sites scanned,137,5,2,2,0,0,0,0,2,2,9,2,9,2
 Judicial live sites,137,5,2,2,0,0,0,0,2,2,9,2,9,2
 "Judicial live, filtered sites",137,5,2,2,0,0,0,0,2,2,9,2,9,2
 "Judicial live, filtered, non-redirecting sites",134,5,2,2,0,0,0,0,2,2,7,2,7,2
-IDEA sites scanned,5803,71,562,29,22,11,211,17,301,23,1002,45,1627,53
-IDEA live sites,5803,71,562,29,22,11,211,17,301,23,1002,45,1627,53
-"IDEA live, filtered sites",5803,71,562,29,22,11,211,17,301,23,1002,45,1627,53
-"IDEA live, filtered, non-redirecting sites",4908,68,419,29,20,11,102,17,274,23,779,44,1227,52
+IDEA sites scanned,5809,71,565,29,22,11,212,17,302,23,1006,45,1631,53
+IDEA live sites,5809,71,565,29,22,11,212,17,302,23,1006,45,1631,53
+"IDEA live, filtered sites",5809,71,565,29,22,11,212,17,302,23,1006,45,1631,53
+"IDEA live, filtered, non-redirecting sites",4912,68,421,29,20,11,102,17,275,23,781,44,1227,52
