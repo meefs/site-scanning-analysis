@@ -1,23 +1,23 @@
 metric,value
-"Live, Production, Unique Websites",8713
-Agencies,134
-DAP_websites,3789
-DAP_agencies,77
-uswds_websites,1222
+"Live, Production, Unique Websites",8640
+Agencies,133
+DAP_websites,3758
+DAP_agencies,76
+uswds_websites,1221
 uswds_agencies,66
-cloud.gov_websites,67
+cloud.gov_websites,61
 cloud.gov_agencies,10
 cloud.gov-pages_websites,43
 cloud.gov-pages_agencies,13
 login.gov_websites,64
 login.gov_agencies,17
-logins,1183
+logins,1184
 logins_agencies,68
-search.gov_websites,710
+search.gov_websites,693
 search.gov_agencies,36
-search_websites,3797
+search_websites,3779
 search_agencies,112
-touchpoints_websites,69
+touchpoints_websites,71
 touchpoints_agencies,12
 data.gov_websites,868
 data.gov_agencies,50

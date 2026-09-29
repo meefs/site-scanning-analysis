@@ -9,7 +9,7 @@ How many urls are from the executive branch?,8077
 How many urls are from the legislative branch?,747
 How many urls are from the judicial branch?,135
 How many columns are in the snapshot?,105
-How many cells are populated in the snapshot?,667047
+How many cells are populated in the snapshot?,667038
 How many home scans completed?,8961
 How many home scans failed?,0
 How many home scans failed because of a refused connection?,0
@@ -72,7 +72,7 @@ How many urls' robots.txt are text files?,4431
 How many urls' robots.txt are another file type?,4530
 How many urls' robots.txt file size were detected?,5061
 How many urls' robots.txt have a crawl_delay?,739
-How many urls' robots.txt link to sitemaps?,1674
+How many urls' robots.txt link to sitemaps?,1673
 How many urls have a sitemap.xml detected?,2707
 How many urls return a 2xx server code for their sitemap.xml?,3765
 How many urls return a 3xx server code for their sitemap.xml?,10
