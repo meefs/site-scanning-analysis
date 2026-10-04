@@ -1,7 +1,9 @@
 missing_url
 dtp-stage.ahrq.gov
+usasoc.army.mil
 blm-eplanninganonconnector-lap.blm.gov
 askeagle-dev2.cancer.gov
+general-qa2.datacommons.cancer.gov
 search.uscourts.cavc.gov
 npin-qa-npin-azure.cdc.gov
 oasisstage.wtchp.cdc.gov
@@ -13,11 +15,15 @@ systemcensus.cedar.cms.gov
 tableau.bi.cms.gov
 oradeveloper03.cns.gov
 stage-ofccp-intranet.dol.gov
+exchange.energy.gov
+exchange_int.energy.gov
 accessdata.preprod.fda.gov
 otsdaq.fnal.gov
+navarro-atl.hanford.gov
 preprod.odphp.health.gov
 hothcd4.health.mil
 dev-hrsagov.cloud.hhs.gov
+prod-docrep.cloud.hhs.gov
 emh.housing.navy.mil and www.homes.mil
 shreve.house.gov
 deva-iqrs.npdb.hrsa.gov
@@ -40,12 +46,14 @@ prsint.ncbi.nlm.nih.gov
 rare.nih.gov
 research.nih.gov
 tech.nih.gov
+auth-fleets-fleetredi-stage.its.nlr.gov
 answers.library.noaa.gov
 dev-app-02-sefsc.fisheries.noaa.gov
 staging.pmel.noaa.gov
 local.hia.opm.gov
 pgrads.sandia.gov
 www-qual.sandia.gov
+bec.sba.gov
 si.gov
 staging-www.tricare.mil
 ams.usajobs.gov
@@ -56,4 +64,6 @@ kg.mwp.usembassy.gov
 mm.mwp.usembassy.gov
 devmastcalval.cr.usgs.gov
 projects.code-pages.usgs.gov
+sgsu-vhptools1.usgs.gov
+sbx.vlm.cem.va.gov
 whitehousefellows.gov
