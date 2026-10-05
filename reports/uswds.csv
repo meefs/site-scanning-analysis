@@ -1,11 +1,11 @@
 Group,count,Agencies,semantic version,Agencies_sv,v1.x,Agencies_v1,v2.x,Agencies_v2,v3.x,Agencies_v3,banner,Agencies_banner,usa-class,Agencies_usa_class
-All sites scanned,12414,135,1067,43,27,11,498,20,488,36,2311,70,3547,82
-All live sites,12414,135,1067,43,27,11,498,20,488,36,2311,70,3547,82
-"All live, filtered sites",12414,135,1067,43,27,11,498,20,488,36,2311,70,3547,82
+All sites scanned,12404,135,1066,43,27,11,498,20,488,36,2310,70,3546,82
+All live sites,12404,135,1066,43,27,11,498,20,488,36,2310,70,3546,82
+"All live, filtered sites",12404,135,1066,43,27,11,498,20,488,36,2310,70,3546,82
 "All live, filtered, non-redirecting sites",8533,134,570,41,19,11,130,18,392,35,1207,66,1786,80
-Executive sites scanned,11447,113,1061,40,27,11,498,20,482,33,2302,68,3532,76
-Executive live sites,11447,113,1061,40,27,11,498,20,482,33,2302,68,3532,76
-"Executive live, filtered sites",11447,113,1061,40,27,11,498,20,482,33,2302,68,3532,76
+Executive sites scanned,11437,113,1060,40,27,11,498,20,482,33,2301,68,3531,76
+Executive live sites,11437,113,1060,40,27,11,498,20,482,33,2301,68,3531,76
+"Executive live, filtered sites",11437,113,1060,40,27,11,498,20,482,33,2301,68,3531,76
 "Executive live, filtered, non-redirecting sites",7651,112,565,38,19,11,130,18,387,32,1200,64,1775,74
 Legislative sites scanned,827,16,4,1,0,0,0,0,4,1,0,0,6,4
 Legislative live sites,827,16,4,1,0,0,0,0,4,1,0,0,6,4
