@@ -1,21 +1,21 @@
 Group,count,Agencies,semantic version,Agencies_sv,v1.x,Agencies_v1,v2.x,Agencies_v2,v3.x,Agencies_v3,banner,Agencies_banner,usa-class,Agencies_usa_class
-All sites scanned,12404,135,1066,43,27,11,498,20,488,36,2310,70,3546,82
-All live sites,12404,135,1066,43,27,11,498,20,488,36,2310,70,3546,82
-"All live, filtered sites",12404,135,1066,43,27,11,498,20,488,36,2310,70,3546,82
-"All live, filtered, non-redirecting sites",8533,134,570,41,19,11,130,18,392,35,1207,66,1786,80
-Executive sites scanned,11437,113,1060,40,27,11,498,20,482,33,2301,68,3531,76
-Executive live sites,11437,113,1060,40,27,11,498,20,482,33,2301,68,3531,76
-"Executive live, filtered sites",11437,113,1060,40,27,11,498,20,482,33,2301,68,3531,76
-"Executive live, filtered, non-redirecting sites",7651,112,565,38,19,11,130,18,387,32,1200,64,1775,74
-Legislative sites scanned,827,16,4,1,0,0,0,0,4,1,0,0,6,4
-Legislative live sites,827,16,4,1,0,0,0,0,4,1,0,0,6,4
-"Legislative live, filtered sites",827,16,4,1,0,0,0,0,4,1,0,0,6,4
-"Legislative live, filtered, non-redirecting sites",745,16,3,1,0,0,0,0,3,1,0,0,4,4
+All sites scanned,12542,135,1062,42,27,13,499,18,484,36,2305,69,3544,82
+All live sites,12542,135,1062,42,27,13,499,18,484,36,2305,69,3544,82
+"All live, filtered sites",12542,135,1062,42,27,13,499,18,484,36,2305,69,3544,82
+"All live, filtered, non-redirecting sites",8651,134,572,41,22,13,132,18,389,35,1213,66,1797,80
+Executive sites scanned,11574,113,1056,39,27,13,499,18,478,33,2296,67,3529,76
+Executive live sites,11574,113,1056,39,27,13,499,18,478,33,2296,67,3529,76
+"Executive live, filtered sites",11574,113,1056,39,27,13,499,18,478,33,2296,67,3529,76
+"Executive live, filtered, non-redirecting sites",7768,112,567,38,22,13,132,18,384,32,1206,64,1786,74
+Legislative sites scanned,828,16,4,1,0,0,0,0,4,1,0,0,6,4
+Legislative live sites,828,16,4,1,0,0,0,0,4,1,0,0,6,4
+"Legislative live, filtered sites",828,16,4,1,0,0,0,0,4,1,0,0,6,4
+"Legislative live, filtered, non-redirecting sites",746,16,3,1,0,0,0,0,3,1,0,0,4,4
 Judicial sites scanned,137,5,2,2,0,0,0,0,2,2,9,2,9,2
 Judicial live sites,137,5,2,2,0,0,0,0,2,2,9,2,9,2
 "Judicial live, filtered sites",137,5,2,2,0,0,0,0,2,2,9,2,9,2
 "Judicial live, filtered, non-redirecting sites",134,5,2,2,0,0,0,0,2,2,7,2,7,2
-IDEA sites scanned,5666,71,555,30,20,10,206,16,300,24,1009,46,1622,54
-IDEA live sites,5666,71,555,30,20,10,206,16,300,24,1009,46,1622,54
-"IDEA live, filtered sites",5666,71,555,30,20,10,206,16,300,24,1009,46,1622,54
-"IDEA live, filtered, non-redirecting sites",4775,68,407,29,16,10,94,16,273,23,775,44,1208,52
+IDEA sites scanned,5759,71,554,30,20,12,209,17,296,24,1010,46,1626,54
+IDEA live sites,5759,71,554,30,20,12,209,17,296,24,1010,46,1626,54
+"IDEA live, filtered sites",5759,71,554,30,20,12,209,17,296,24,1010,46,1626,54
+"IDEA live, filtered, non-redirecting sites",4851,68,407,29,19,12,95,17,269,23,779,44,1217,52
