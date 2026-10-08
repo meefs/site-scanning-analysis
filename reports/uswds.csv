@@ -1,21 +1,21 @@
 Group,count,Agencies,semantic version,Agencies_sv,v1.x,Agencies_v1,v2.x,Agencies_v2,v3.x,Agencies_v3,banner,Agencies_banner,usa-class,Agencies_usa_class
-All sites scanned,12544,135,1063,42,28,13,499,18,483,36,2308,69,3545,82
-All live sites,12544,135,1063,42,28,13,499,18,483,36,2308,69,3545,82
-"All live, filtered sites",12544,135,1063,42,28,13,499,18,483,36,2308,69,3545,82
-"All live, filtered, non-redirecting sites",8654,134,573,41,23,13,132,18,388,35,1217,66,1799,80
-Executive sites scanned,11578,113,1057,39,28,13,499,18,477,33,2299,67,3530,76
-Executive live sites,11578,113,1057,39,28,13,499,18,477,33,2299,67,3530,76
-"Executive live, filtered sites",11578,113,1057,39,28,13,499,18,477,33,2299,67,3530,76
-"Executive live, filtered, non-redirecting sites",7772,112,568,38,23,13,132,18,383,32,1210,64,1788,74
-Legislative sites scanned,827,16,4,1,0,0,0,0,4,1,0,0,6,4
-Legislative live sites,827,16,4,1,0,0,0,0,4,1,0,0,6,4
-"Legislative live, filtered sites",827,16,4,1,0,0,0,0,4,1,0,0,6,4
-"Legislative live, filtered, non-redirecting sites",746,16,3,1,0,0,0,0,3,1,0,0,4,4
-Judicial sites scanned,136,5,2,2,0,0,0,0,2,2,9,2,9,2
-Judicial live sites,136,5,2,2,0,0,0,0,2,2,9,2,9,2
-"Judicial live, filtered sites",136,5,2,2,0,0,0,0,2,2,9,2,9,2
-"Judicial live, filtered, non-redirecting sites",133,5,2,2,0,0,0,0,2,2,7,2,7,2
-IDEA sites scanned,5749,71,554,30,21,12,207,17,296,24,1010,46,1623,54
-IDEA live sites,5749,71,554,30,21,12,207,17,296,24,1010,46,1623,54
-"IDEA live, filtered sites",5749,71,554,30,21,12,207,17,296,24,1010,46,1623,54
-"IDEA live, filtered, non-redirecting sites",4843,68,407,29,20,12,94,17,268,23,780,44,1216,52
+All sites scanned,12546,135,1068,43,27,12,498,18,487,37,2307,69,3552,82
+All live sites,12546,135,1068,43,27,12,498,18,487,37,2307,69,3552,82
+"All live, filtered sites",12546,135,1068,43,27,12,498,18,487,37,2307,69,3552,82
+"All live, filtered, non-redirecting sites",8653,134,583,41,22,12,139,18,392,35,1220,66,1806,80
+Executive sites scanned,11578,113,1062,40,27,12,498,18,481,34,2298,67,3537,76
+Executive live sites,11578,113,1062,40,27,12,498,18,481,34,2298,67,3537,76
+"Executive live, filtered sites",11578,113,1062,40,27,12,498,18,481,34,2298,67,3537,76
+"Executive live, filtered, non-redirecting sites",7769,112,578,38,22,12,139,18,387,32,1213,64,1795,74
+Legislative sites scanned,828,16,4,1,0,0,0,0,4,1,0,0,6,4
+Legislative live sites,828,16,4,1,0,0,0,0,4,1,0,0,6,4
+"Legislative live, filtered sites",828,16,4,1,0,0,0,0,4,1,0,0,6,4
+"Legislative live, filtered, non-redirecting sites",747,16,3,1,0,0,0,0,3,1,0,0,4,4
+Judicial sites scanned,137,5,2,2,0,0,0,0,2,2,9,2,9,2
+Judicial live sites,137,5,2,2,0,0,0,0,2,2,9,2,9,2
+"Judicial live, filtered sites",137,5,2,2,0,0,0,0,2,2,9,2,9,2
+"Judicial live, filtered, non-redirecting sites",134,5,2,2,0,0,0,0,2,2,7,2,7,2
+IDEA sites scanned,5746,71,559,31,20,11,208,17,300,25,1006,46,1624,54
+IDEA live sites,5746,71,559,31,20,11,208,17,300,25,1006,46,1624,54
+"IDEA live, filtered sites",5746,71,559,31,20,11,208,17,300,25,1006,46,1624,54
+"IDEA live, filtered, non-redirecting sites",4831,68,410,29,19,11,95,17,271,23,779,44,1216,52
